@@ -1,0 +1,25 @@
+SERVIZI:
+-labilità => 13
+-fraternità ed amicizia => 22 (servizio in rapporto 1:1 con le sedi)
+-beneddetadintino => 7 servizi (solamente area di disabilità affettiva)
+
+LINEA DI MASSIMA INTORNO AI 16 SERVIZI (più o meno 4/5 servizi per struttura)
+ 
+servizi divisi per location e per aree di supporto
+STESSO SERVIZIO più essere utilizzato in più aree di supporto, e quindi essere prestato in più sedi
+STESSO SERVIZIO erogato da più persone
+
+LOCATIONS => 4/5 
+raggruppate per aree di supporto
+AREE DI SUPPORTO: disabilità motorie, disabilità intellettiva, disabilità affettive, servizi generici (supporto familiare/formazione)
++ amministrazione?
+
+PERSONE:
+collegate ai servizi, non alle aree di supporto
+CATEGORIE DI PERSONE: operatori, medici, psicologi, insegnanti (per la formazione), etc...
+
+
+LINEA DI MASSIMO INTORNO ALLE 20 PERSONE (collegate più servizi)
+
+EVENTI:
+da definire
