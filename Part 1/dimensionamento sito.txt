@@ -9,7 +9,7 @@ servizi divisi per location e per aree di supporto
 STESSO SERVIZIO più essere utilizzato in più aree di supporto, e quindi essere prestato in più sedi
 STESSO SERVIZIO erogato da più persone
 
-LOCATIONS => 4/5 
+LOCATIONS => 4/5 LOCATIONS SONO LE AREE GEOGRAFICHE! NON LE SEDI
 raggruppate per aree di supporto
 AREE DI SUPPORTO: disabilità motorie, disabilità intellettiva, disabilità affettive, servizi generici (supporto familiare/formazione)
 + amministrazione?
