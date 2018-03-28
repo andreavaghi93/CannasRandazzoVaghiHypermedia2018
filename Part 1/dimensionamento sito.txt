@@ -1,25 +1,39 @@
 SERVIZI:
--labilità => 13
--fraternità ed amicizia => 22 (servizio in rapporto 1:1 con le sedi)
--beneddetadintino => 7 servizi (solamente area di disabilità affettiva)
+-labilitÃ  => 13
+-fraternitÃ  ed amicizia => 22 (servizio in rapporto 1:1 con le sedi)
+-beneddetadintino => 7 servizi (solamente area di disabilitÃ  affettiva)
 
-LINEA DI MASSIMA INTORNO AI 16 SERVIZI (più o meno 4/5 servizi per struttura)
+LINEA DI MASSIMA INTORNO AI 16 SERVIZI (piÃ¹ o meno 4/5 servizi per struttura)
  
 servizi divisi per location e per aree di supporto
-STESSO SERVIZIO più essere utilizzato in più aree di supporto, e quindi essere prestato in più sedi
-STESSO SERVIZIO erogato da più persone
+STESSO SERVIZIO piÃ¹ essere utilizzato in piÃ¹ aree di supporto, e quindi essere prestato in piÃ¹ sedi
+STESSO SERVIZIO erogato da piÃ¹ persone
 
 LOCATIONS => 4/5 LOCATIONS SONO LE AREE GEOGRAFICHE! NON LE SEDI
-raggruppate per aree di supporto
-AREE DI SUPPORTO: disabilità motorie, disabilità intellettiva, disabilità affettive, servizi generici (supporto familiare/formazione)
-+ amministrazione?
+Milano, Como, Cremona, Treviglio, Pavia
+
+AREE DI SUPPORTO: disabilitÃ  intellettiva, (disabilitÃ  affettive), supporto familiare, formazione (sia operatori [distribuite nelle sedi] che ragazzi [concentrata in una sede])
 
 PERSONE:
-collegate ai servizi, non alle aree di supporto
+collegate ai servizi (MAX 3), non alle aree di supporto
 CATEGORIE DI PERSONE: operatori, medici, psicologi, insegnanti (per la formazione), etc...
 
 
-LINEA DI MASSIMO INTORNO ALLE 20 PERSONE (collegate più servizi)
+LINEA DI MASSIMO INTORNO ALLE 20 PERSONE (collegate piÃ¹ servizi)
 
-EVENTI:
-da definire
+EVENTI => 6
+FRONT END
+-inaugarazione sedi di Treviglio e Pavia
+-mercatino primaverile Como
+-concerto sede di Cremona
+BACK END
+-conferenza Milano
+-spettacolo di beneficienza teatro Leonardo da Vinci
+
+NEWS => 9 (5 per pagina)
+FRONT END
+-lanciato nuovo sito
+-una per ogni evento (link di transizione con immagine evento e titolo)
+BACKEND
+-auguri di buona pasqua
+-spostamento orario laboratorio
