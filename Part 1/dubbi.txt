@@ -1,0 +1,6 @@
+DUBBI:
+1) all services by locations (the members of this group are groups of services for a
+specific location) ????
+2) news? singola pagina con più entry fatte da titolo + brevissima descrizione O gruppo di news con ogni news avente una singola pagina?
+3) cardinalità nel P-IDM? in generale, cardinalità del sito futuro del nostro prototipo negli IDM schema?
+4) un filtro gestito da utente come si modella? sempre come gruppo parametrico?
