@@ -1,0 +1,42 @@
+PAGINA GENERICA:
+-Header
+	-Logo
+	-Donate now (button)
+	-Social links (buttons)
+-Navbar
+	-Dropdown
+	-colori automatici
+-Breadcumb
+-Footer
+	-Logo
+	-Loghi vari enti etc
+	-Link contatti
+-Contenuto principale a sinistra
+-Sidebar a destra
+		-Form input per subscribe
+		-Button donate
+-Separators
+
+HOME PAGE:
+-Slideshow
+-Welcome note
+-Immagini
+-Sidebar a destra
+	-Lista news
+
+PERSONA
+	-Tabella services e locations
+
+EVENTI/LOCATIONS
+	-Tab per locations
+	-riquadro eventi/loc con scroll
+	-calendario
+	-thumbnail eventi
+
+
+
+
+
+
+
+
