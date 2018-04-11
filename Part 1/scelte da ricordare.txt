@@ -1,0 +1,3 @@
+-per accedere ad elenco di tutti i lavoratori in ordine alfabetico usiamo un menù a tendina da who we are -> people
+-tutti i tasti dona ora rimandano alla pagina help us dove scriviamo le coordinate per le donazioni (no form)
+-nella sezione people non mostriamo i dirigenti etc -> da ogni persona si va ad almeno un servizio/location
