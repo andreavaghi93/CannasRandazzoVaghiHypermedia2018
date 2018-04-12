@@ -1,5 +1,6 @@
-﻿DUBBI:
+DUBBI:
 1) all services by locations (the members of this group are groups of services for a
 specific location) ????
 2) cardinalità nel P-IDM? in generale, cardinalità del sito futuro del nostro prototipo negli IDM schema?
 3) un filtro gestito da utente come si modella? sempre come gruppo parametrico?
+4) NEWS a lato è solo nella home
