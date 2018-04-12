@@ -1,20 +1,20 @@
-PAGINA GENERICA:
--Header
+PAGINA GENERICA: -> PAGE RIGHT SIDEBAR
+-Header -> SIMPLE STATIC
 	-Logo
-	-Donate now (button)
-	-Social links (buttons)
--Navbar
-	-Dropdown
-	-colori automatici
--Breadcumb
--Footer
+	-Donate now (button) -> BUTTONS SEMI-CIRCLE
+	-Social links (buttons) -> SOCIAL HOVER ANIMATIONS
+	-Navbar
+		-Dropdown
+		-colori automatici
+-Breadcumb -> DEFAULT
+-Footer -> MINIMAL
 	-Logo
 	-Loghi vari enti etc
 	-Link contatti
 -Contenuto principale a sinistra
 -Sidebar a destra
 		-Form input per subscribe
-		-Button donate
+		-Button donate -> BUTTONS SEMI-CIRCLE
 -Separators
 
 HOME PAGE:
