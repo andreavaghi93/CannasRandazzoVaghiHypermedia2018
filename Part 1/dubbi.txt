@@ -1,6 +1,10 @@
 DUBBI:
 1) all services by locations (the members of this group are groups of services for a
 specific location) ????
-2) cardinalità nel P-IDM? in generale, cardinalità del sito futuro del nostro prototipo negli IDM schema?
+2) cardinalità nel P-IDM? in generale, cardinalità del sito futuro del nostro prototipo negli IDM schema? (con particolare focus da news ad eventi, siccome variabile)
 3) un filtro gestito da utente come si modella? sempre come gruppo parametrico?
+<<<<<<< HEAD
 4) NEWS a lato è solo nella home
+=======
+4) se ho breadcumb cliccabile devo modellare i link bidirezionale nell' IDM?
+>>>>>>> 81fe6f6e4842cc14b0a8fedfabb79313d58a6bd0
