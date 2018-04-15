@@ -190,7 +190,7 @@ tbody {
 }
 
 #donate-header {
-    padding: inherit
+    padding: 20px 0 0 0;
 }
 
 .dark .footer {
@@ -224,7 +224,7 @@ tbody {
 }
 
 .header-first {
-    padding: 50px 0 0 20px;
+    padding: 60px 0 0 20px;
 }
 
 /*header dropdown*/
@@ -5795,7 +5795,7 @@ fieldset[disabled] .form-control {
 
 @media (min-width: 992px) and (max-width: 1200px) {
     .header .navbar-nav li .nav-link {
-        padding: 28px 12px 27px 12px;
+        padding: 20px 12px 25px 12px;
     }
 
     .header .navbar-nav li.dropdown .nav-link {
@@ -9240,5 +9240,9 @@ h6.media-heading {
     line-height: 20px;
     margin-top: -9px;
     color: #ffffff;
+}
+
+#social-icons-header {
+    padding: 20px 0 0 0;
 }
 
