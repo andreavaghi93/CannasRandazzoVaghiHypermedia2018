@@ -1,0 +1,2 @@
+MODIFICHE HTML:
+- "Subscribe now!" nella sidebar deve diventare "Subscribe to our newsletter!"
