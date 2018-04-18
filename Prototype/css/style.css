@@ -9237,8 +9237,8 @@ h6.media-heading {
     color: #ffffff;
 }
 
-#donate-header {
-    background-color: red;
-    border-color: red;
+#big-donate:hover{
+    background-color: "white";
 }
+
 
