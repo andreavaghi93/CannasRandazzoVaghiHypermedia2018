@@ -9246,4 +9246,19 @@ h6.media-heading {
     background-color: white;
 }
 
+#my-separator {
+	width: 100%; 
+	margin-bottom: 15px; 
+	position: relative; 
+	height: 1px;
+}
+
+#people-table-header {
+	text-align:center;
+	color: #ffffff;
+}
+
+#people-table-header-anchor {
+	color: #ffffff;
+}
 
