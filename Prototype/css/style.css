@@ -2506,6 +2506,7 @@ h5 + .separator {
 
 .default-hovered:hover .btn-gray-transparent {
     border-color: #ffffff;
+    background-color: white;
 }
 
 .light-gray-bg.default-hovered:hover .btn-gray-transparent:hover {
@@ -9238,7 +9239,11 @@ h6.media-heading {
 }
 
 #big-donate:hover{
-    background-color: "white";
+    background-color: white;
+    color: black;
+}
+#big-donate:after{
+    background-color: white;
 }
 
 
