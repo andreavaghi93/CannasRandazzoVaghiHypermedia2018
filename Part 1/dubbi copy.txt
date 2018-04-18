@@ -10,3 +10,6 @@ avrebbe un botto di link da ciascuna pagina a ciascuna pagina;
 
 FEDELTà MOCKUP: in realtà bastano gli screenshot del prototipo; l'importante non è tanto la fedeltà con lo scenario, ma più che altro
 illustrare come abbiamo organizzato le pagine a livello di contenuto (dove sono posizionati i link, che link sono presenti, etc...)
+
+DOPPIA LINEA per i SET OF LINK nel P-IDM: si usano per le relazione 1-N, ovvero quando abbiamo un insieme di link da una pagina ad un'altra
+che deriva da una relazione
