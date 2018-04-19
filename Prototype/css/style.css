@@ -3038,7 +3038,7 @@ h5 + .separator {
 
 .nav-tabs.style-4 {
     margin-bottom: 15px;
-    border-bottom: 1px solid #333333;
+    border-bottom: 1px solid #0c9ec7;
 }
 
 .nav-tabs.style-4 > li > a {
@@ -3047,9 +3047,9 @@ h5 + .separator {
 
 .nav-tabs.style-4 > li > a:hover {
     color: #ffffff;
-    background-color: #333333 !important;
-    border-color: #333333;
-    border-bottom-color: #333333 !important;
+    background-color: #09afdf !important;
+    border-color: #09afdf;
+    border-bottom-color: #09afdf !important;
 }
 
 .nav-tabs.style-4 > li > a:focus {
@@ -3062,8 +3062,8 @@ h5 + .separator {
 .nav-tabs.style-4 > li > a.active:focus {
     color: #ffffff;
     cursor: default;
-    background-color: #333333;
-    border-color: #333333;
+    background-color: #09afdf;
+    border-color: #0c9ec7;
     border-bottom-color: transparent;
 }
 
