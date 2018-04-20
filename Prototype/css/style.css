@@ -9268,7 +9268,7 @@ h6.media-heading {
 
 @media (min-width:400px) and (max-width:768px) {
 	#description-body-service {
-	padding: 15px 15px 15px 15px;
+	padding: 15px 0px 0px 0px;
 	}
 }
 
