@@ -9237,38 +9237,3 @@ h6.media-heading {
     margin-top: -9px;
     color: #ffffff;
 }
-
-#big-donate:hover{
-    background-color: white;
-    color: black;
-}
-#big-donate:after{
-    background-color: white;
-}
-
-#my-separator {
-	width: 100%; 
-	margin-bottom: 15px; 
-	position: relative; 
-	height: 1px;
-}
-
-#people-table-header {
-	text-align:center;
-	color: #ffffff;
-}
-
-#people-table-header-anchor {
-	color: #ffffff;
-}
-
-#description-body-service {
-	padding: 0px 15px 15px 15px;
-}
-
-@media (min-width:400px) and (max-width:768px) {
-	#description-body-service {
-	padding: 15px 0px 0px 0px;
-	}
-}
-
