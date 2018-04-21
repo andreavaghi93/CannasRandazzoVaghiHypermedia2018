@@ -27,3 +27,7 @@ LAYOUT NOTES:
 - separators-2 sotto le sezioni, separator "myseparator" sotto i titoli pagina
 - tables: responsive (div contentente), bordered, colored
 - header tabella: h4
+
+
+DIMENSIONI IMMAGINI:
+-who we are: 1140 × 705 pixels, DPI 72 pixel/inch
