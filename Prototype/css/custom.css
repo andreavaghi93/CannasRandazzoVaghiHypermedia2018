@@ -2,3 +2,43 @@
  * Version: 2.1
  * File Description: Place here your custom CSS styles
  */
+ 
+ #big-donate:hover{
+    background-color: white;
+    color: black;
+}
+#big-donate:after{
+    background-color: white;
+}
+
+#my-separator {
+	width: 100%; 
+	margin-bottom: 15px; 
+	position: relative; 
+	height: 1px;
+}
+
+#clickable-table-header {
+	text-align:center;
+	color: #ffffff;
+}
+
+#clickable-table-header-anchor {
+	color: #ffffff;
+}
+
+#description-body-service {
+	padding: 0px 15px 15px 15px;
+}
+
+@media (min-width:400px) and (max-width:768px) {
+	#description-body-service {
+	padding: 15px 0px 0px 0px;
+	}
+}
+
+#link-not-active {
+      color: #a3a375;
+	  pointer-events: none;
+	  /*cursor: default;*/
+}

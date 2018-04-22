@@ -1,2 +1,33 @@
 MODIFICHE HTML:
 - "Subscribe now!" nella sidebar deve diventare "Subscribe to our newsletter!"
+- In sidebar abbiamo eventi e non news
+
+
+
+TODO LIST:
+- fare da zero la pagina singola location con relativi servizi
+- pagine da riempire con contenuti effettivi:
+	- who we are
+	- contact us
+	- faq
+	- news
+	- help us
+	- persona singola
+	- persone
+	- locations
+	- location singola
+	- eventi
+	- eventi singoli (3)
+	- servizi
+	- home
+
+LAYOUT NOTES:
+- titoli pagine h1 class="page title"
+- sottosezioni h2 in who we are, h3 nelle altre
+- separators-2 sotto le sezioni, separator "myseparator" sotto i titoli pagina
+- tables: responsive (div contentente), bordered, colored
+- header tabella: h4
+
+
+DIMENSIONI IMMAGINI:
+-who we are: 1140 × 705 pixels, DPI 72 pixel/inch
