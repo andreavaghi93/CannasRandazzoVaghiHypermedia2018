@@ -37,6 +37,8 @@
 	}
 }
 
-#person-service-not-active {
-            color: #a3a375;
+#link-not-active {
+      color: #a3a375;
+	  pointer-events: none;
+	  /*cursor: default;*/
 }
