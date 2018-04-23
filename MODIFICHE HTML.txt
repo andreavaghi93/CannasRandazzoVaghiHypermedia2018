@@ -19,8 +19,52 @@ TODO LIST:
 	- eventi (fatto)
 	- eventi singoli (fatti)
 	- servizi (fatto)
-	- home 
-
+	- home (fatto)
+- METTERE HEADER, SIDEBAR E FOOTER GIUSTI (in italiano + link funzionanti)
+	FOOTER:
+		- who we are (fatto)
+		- contact us 
+		- faq (fatto)
+		- news (fatto)
+		- help us (fatto)
+		- persona singola (fatto)
+		- persone (fatto)
+		- locations (fatto)
+		- location singola
+		- eventi (fatto)
+		- eventi singoli (fatto)
+		- servizi (fatto)
+		- home (fatto)
+		- thank you (fatto)
+	SIDEBAR:
+		- who we are
+		- contact us 
+		- faq 
+		- news 
+		- help us
+		- persona singola
+		- persone 
+		- locations 
+		- location singola
+		- eventi
+		- eventi singoli
+		- servizi
+		- home
+	HEADER (da controllare ed eventualmente mettere in italiano):
+		- who we are
+		- contact us 
+		- faq 
+		- news 
+		- help us
+		- persona singola
+		- persone 
+		- locations 
+		- location singola
+		- eventi
+		- eventi singoli
+		- servizi
+		- home
+	
 LAYOUT NOTES:
 - titoli pagine h1 class="page title"
 - sottosezioni h2 in who we are, h3 nelle altre
