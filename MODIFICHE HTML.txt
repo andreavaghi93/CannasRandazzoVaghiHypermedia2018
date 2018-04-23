@@ -7,7 +7,7 @@
 TODO LIST:
 - fare da zero la pagina singola location con relativi servizi
 - pagine da riempire con contenuti effettivi:
-	- who we are 
+	- who we are (fatto)
 	- contact us (fatto)
 	- faq (fatto)
 	- news (fatte)
@@ -20,6 +20,8 @@ TODO LIST:
 	- eventi singoli (fatti)
 	- servizi (fatto)
 	- home 
+	- mettere logo / sistemare header
+	- sidebar
 
 LAYOUT NOTES:
 - titoli pagine h1 class="page title"
