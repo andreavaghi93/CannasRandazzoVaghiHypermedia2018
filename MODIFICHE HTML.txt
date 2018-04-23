@@ -1,4 +1,4 @@
-MODIFICHE HTML:
+﻿MODIFICHE HTML:
 - "Subscribe now!" nella sidebar deve diventare "Subscribe to our newsletter!"
 - In sidebar abbiamo eventi e non news
 
@@ -7,19 +7,19 @@ MODIFICHE HTML:
 TODO LIST:
 - fare da zero la pagina singola location con relativi servizi
 - pagine da riempire con contenuti effettivi:
-	- who we are
-	- contact us
-	- faq
-	- news
-	- help us
-	- persona singola
-	- persone
-	- locations
+	- who we are 
+	- contact us (fatto)
+	- faq (fatto)
+	- news (fatte)
+	- help us (fatta)
+	- persona singola (fatte)
+	- persone (fatto)
+	- locations (fatto)
 	- location singola
-	- eventi
-	- eventi singoli (3)
-	- servizi
-	- home
+	- eventi (fatto)
+	- eventi singoli (fatti)
+	- servizi (fatto)
+	- home 
 
 LAYOUT NOTES:
 - titoli pagine h1 class="page title"
