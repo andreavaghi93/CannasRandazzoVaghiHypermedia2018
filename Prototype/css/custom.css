@@ -37,8 +37,13 @@
 	}
 }
 
-#link-not-active {
+.link-not-active {
       color: #a3a375;
 	  pointer-events: none;
 	  /*cursor: default;*/
 }
+
+.link-active:hover {
+	text-decoration:none;
+}
+
