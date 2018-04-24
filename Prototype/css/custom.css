@@ -37,6 +37,14 @@
 	}
 }
 
+@media (width: 1400px){
+	p {
+		font-size: large;
+	}
+	
+	
+}
+
 .link-not-active {
       color: #a3a375;
 	  pointer-events: none;
