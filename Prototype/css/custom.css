@@ -37,18 +37,20 @@
 	}
 }
 
+@media (width: 1400px){
+	p {
+		font-size: large;
+	}
+}
+
 .link-not-active {
-      color: #a3a375;
+      color: #bfbfbf;
 	  pointer-events: none;
 	  /*cursor: default;*/
 }
 
 .link-active:hover {
 	text-decoration:none;
-}
-
-#custom-nav-tab {
-    margin-bottom: 30px;
 }
 
 .slideshow-heading {
@@ -58,3 +60,4 @@
 .site-slogan-footer {
     font-size: 14px;
 }
+
