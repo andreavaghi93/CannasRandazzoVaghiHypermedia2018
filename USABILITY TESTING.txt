@@ -4,7 +4,51 @@ PREPARATION:
 	- evaluation of information architecture (is our website well structured?)
 	- evaluation of NAVIGATION/INTERACTION (does the user navigate well on our website?)
 	- evaluation of LAYOUT (does our website present a good interface to our user?)
-   METHOD: task-based user testing, in a real context of use
+   METHOD: task-based user testing, in a real context of use (6 users)
 
-2) quantitative data:
-	1)
+2) quantitative data (3 tasks):
+	- Effectiveness (task success rate)
+	- Efficency (time to execute tasks)
+	- # of errors (per single task)
+	- SMEQ (0-150)
+	- SUS
+3) qualitative data
+	- hai trovato il contenuto del sito facilmente comprensibile? pagine 	troppo lunghe? informazioni mancanti?
+	- hai trovato facile navigare attraverso le pagine del sito? facile andare da sezione ad altra (es. da persona a servizio e viceversa)? ti sei mai sentito perso? 
+	- hai trovato l'aspetto grafico piacevole e allo stesso tempo funzionale (es. contrasto colori, immagini troppo invadenti, scritte poco leggibili, link facilmente riconoscibili)?
+
+4) categoria utente
+	- genitori/simpatizzanti
+
+5) scenari/tasks
+	- warm up: nota introduttiva sullo scopo dell'associazione 
+	e del sito
+	home -> sede -> servizio -> persona -> home
+
+	a) a tuo figlio è stato appena diagnosticata una forma di disabilità	cognitiva. Il suo pediatra ti ha consigliato Abilitiamoci, che
+	non conosci. Informati sulla storia e gli obiettivi dell'organizzazione.
+	SUCCESSO: In che anno è stata fondata Abilitiamoci?
+			  Quali sono i valori dell'associazione?
+	PARZIALE: Una sola delle risposte è giusta
+	ERRORE: Nessuna delle risposte è giusta
+
+	b) Abiti a Milano. Abilitiamoci ha un sede in questa città, e ne sei a conoscenza. Informati dove è localizzata la sede e quali servizi eroga.
+	SUCCESSO: Qual è l'indirizzo della sede?
+			  Quali di questi servizi eroga?
+	PARZIALE: Una sola delle risposte è giusta
+	ERRORE: Nessuna delle risposte è giusta
+
+	c) Abiti a Crema. Tuo figlio frequentava un laboratorio di musicoterapia in una Onlus che per mancanza di fondi ha dovuto chiudere. Vieni a sapere che a Cremona esiste una sede di Abilitiamoci. Scopri se eroga il servizio di musicoterapia e il personale coinvolto. 
+	SUCCESSO: Quali persone sono coinvolte nel servizio? 
+	PARZIALE: Non individua tutte le persone coinvolte
+	ERRORE: Non individua nessuna persona
+
+	d) Tua figlia è appassionata di pittura e scultura. Un collega ti ha suggerito il nome di Matteo Cesellasti, che fa parte fa parte dello staff di Abilitiamoci. Vuoi scoprire la sua qualifica e in che sede opera.
+	SUCCESSO: In quale sede lavora?
+			  Qual è la sua qualifica professionale?
+	PARZIALE: Una sola delle risposte è giusta
+	ERRORE: Nessuna delle risposte è giusta
+
+
+	 
+
