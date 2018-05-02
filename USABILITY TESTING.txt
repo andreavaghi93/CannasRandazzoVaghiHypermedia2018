@@ -1,0 +1,10 @@
+PREPARATION:
+1) Define test goals
+	- evaluation of CONTENT (mainly readability)
+	- evaluation of information architecture (is our website well structured?)
+	- evaluation of NAVIGATION/INTERACTION (does the user navigate well on our website?)
+	- evaluation of LAYOUT (does our website present a good interface to our user?)
+   METHOD: task-based user testing, in a real context of use
+
+2) quantitative data:
+	1)
