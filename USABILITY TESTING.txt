@@ -11,11 +11,12 @@ PREPARATION:
 	- Efficency (time to execute tasks)
 	- # of errors (per single task)
 	- SMEQ (0-150)
-	- SUS
+	- SUS (test finale)
 3) qualitative data
 	- hai trovato il contenuto del sito facilmente comprensibile? pagine 	troppo lunghe? informazioni mancanti?
 	- hai trovato facile navigare attraverso le pagine del sito? facile andare da sezione ad altra (es. da persona a servizio e viceversa)? ti sei mai sentito perso? 
 	- hai trovato l'aspetto grafico piacevole e allo stesso tempo funzionale (es. contrasto colori, immagini troppo invadenti, scritte poco leggibili, link facilmente riconoscibili)?
+
 
 4) categoria utente
 	- genitori/simpatizzanti
